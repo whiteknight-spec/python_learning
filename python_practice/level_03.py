@@ -1,0 +1,2 @@
+# 1)count a specific number
+numbers = [10, 20, 10, 30, 10, 40, 20, 10]
